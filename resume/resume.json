@@ -11,12 +11,12 @@
         {
             "name": "Flasky",
             "description": "Micro-blogging website",
-            "link": "https://ashish160.herokuapp.com/"
+            "link": "https://github.com/ashishkumar160/flasky"
         },
         {
             "name": "Coding Blog",
             "description": "A blog focused on coding",
-            "link": "https://codingblog.netlify.com/"
+            "link": "https://github.com/ashishkumar160/coding-blog"
         },
         {
             "name": "Server Log Analysis",
@@ -26,7 +26,20 @@
     ],
     "professionalExperience": [
         {
-            "period": "June 2018 - Present",
+            "period": "July 2021 - Present",
+            "position": "Senior Software Engineer",
+            "companyName": "Sumo Logic",
+            "achievements": [
+                "Implemented a new pricing model known as Flex which revolutionizing log analytics pricing by offering free, unlimited log ingest.",
+                "Developed Sumo Logic listing on AWS SaaS Quick Launch to reduce the time and resources required to configure and launch Sumo Logic on AWS.",
+                "Designed & implemented the Self Service checkout flow which successfully helped in converting free & trial customers to paying customers.",
+                "Redesigned the activation page to boost the activation rate & drive customers towards the activation point.",
+                "Helped in migration of legacy Angular JS framework to modern React JS.",
+                "Improved performance by implementing caching & breaking large APIs into smaller APIs which can be parallelly called."
+            ]
+        },
+        {
+            "period": "June 2018 - July 2021",
             "position": "Software Engineer",
             "companyName": "Compro Technologies",
             "achievements": [
@@ -75,6 +88,14 @@
             "rating": 5
         },
         {
+            "name": "Spring Boot",
+            "rating": 5
+        },
+        {
+            "name": "Java",
+            "rating": 5
+        },
+        {
             "name": "JavaScript",
             "rating": 5
         },
@@ -83,12 +104,52 @@
             "rating": 5
         },
         {
+            "name": "Amazon EC2",
+            "rating": 4
+        },
+        {
+            "name": "DynamoDB",
+            "rating": 4
+        },
+        {
+            "name": "Amazon S3",
+            "rating": 4
+        },
+        {
+            "name": "Amazon SQS",
+            "rating": 4
+        },
+        {
+            "name": "Amazon SNS",
+            "rating": 4
+        },
+        {
             "name": "TypeScript",
             "rating": 4
         },
         {
             "name": "Material UI",
             "rating": 4
+        },
+        {
+            "name": "Swagger",
+            "rating": 4
+        },
+        {
+            "name": "Scala",
+            "rating": 4
+        },
+        {
+            "name": "Kubernetes",
+            "rating": 3.5
+        },
+        {
+            "name": "Amazon RDS",
+            "rating": 3.5
+        },
+        {
+            "name": "CloudFront",
+            "rating": 3.5
         },
         {
             "name": "NodeJS",
@@ -112,10 +173,6 @@
         },
         {
             "name": "NextJS",
-            "rating": 2.5
-        },
-        {
-            "name": "Java",
             "rating": 2.5
         }
     ],
